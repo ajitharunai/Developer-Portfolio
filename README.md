@@ -218,9 +218,7 @@ If you can help us with these. Please don't hesitate to open an [pull request](h
   <tbody>
     <tr>
        <td align="center"><a href="https://ajicreations.netlify.app/"><img src="https://avatars.githubusercontent.com/u/89124776?v=4" width="100px;" alt=""/><br /><sub><b>Ajith Kumar M </b></sub></a><br /><a href="https://github.com/ajitharunai/Developer-Portfolio" title="Code">💻</a> <a href="https://github.com/ajitharunai/Developer-Portfolio" title="Documentation">📖</a> <a href="#design-ajitharunai" title`="Design">🎨</a> <a href="#maintenance-ashutosh1919" title="Maintenance">🚧</a> <a href="#ideas-ajitharunai" title="Ideas, Planning, & Feedback">🤔</a></td>
-        
-    
-    </tr>
+       </tr>
   </tbody>
 </table>
 
