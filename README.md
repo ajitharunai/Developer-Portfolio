@@ -24,7 +24,7 @@
 <p align="center">If you want to discuss about something, you can ask on my <a href="https://discord.com/invite/GkcbM5bwZr">Discord Server</a>.</p>
 
 <p align="center"> 
-    <a href="https://ashutosh1919.github.io" target="_blank">
+    <a href="https://ajicreations.netlify.app/" target="_blank">
     <img src="images/masterPortfolioThemes.png"></img>
   </a>
 </p>
@@ -42,7 +42,7 @@
 ✔️ Education\
 ✔️ Contact me
 
-To view a live example, **[click here](https://ashutosh1919.github.io/)**
+To view a live example, **[click here](https://ajicreations.netlify.app/)**
 
 # Clone and Use 📋
 
@@ -51,7 +51,7 @@ To view a live example, **[click here](https://ashutosh1919.github.io/)**
 - In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page
 - After the successful installation of `nodejs` and `npm`, clone the repository into your local system using below command:
     ```bash
-     git clone https://github.com/ashutosh1919/masterPortfolio.git
+     git clone https://github.com/ajitharunai/Developer-Portfolio
     ```
     This will clone the whole repository in your system.
 - To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
@@ -202,7 +202,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 
 # Contributing 💡
 
-If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/ashutosh1919/masterPortfolio/pulls) or [issue](https://github.com/ashutosh1919/masterPortfolio/issues).
+If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/ashutosh1919/masterPortfolio/pulls) or [issue](https://github.com/ajitharunai/Developer-Portfolio).
 
 - Move to Gatsby
 - Add Podcast Section and Video Section
@@ -217,7 +217,8 @@ If you can help us with these. Please don't hesitate to open an [pull request](h
 <table>
   <tbody>
     <tr>
-       <td align="center"><a href="http://ashutosh1919.github.io"><img src="https://avatars3.githubusercontent.com/u/20843596?s=460&u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ajith Kumar M </b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=ashutosh1919" title="Code">💻</a> <a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=ashutosh1919" title="Documentation">📖</a> <a href="#design-ashutosh1919" title`="Design">🎨</a> <a href="#maintenance-ashutosh1919" title="Maintenance">🚧</a> <a href="#ideas-ashutosh1919" title="Ideas, Planning, & Feedback">🤔</a></td>
+       <td align="center"><a href="http://ashutosh1919.github.io"><img src="https://avatars.githubusercontent.com/u/89124776?v=4" width="100px;" alt=""/><br /><sub><b>Ajith Kumar M </b></sub></a><br /><a href="https://github.com/ajitharunai/Developer-Portfolio" title="Code">💻</a> <a href="https://github.com/ajitharunai/Developer-Portfolio" title="Documentation">📖</a> <a href="#design-ajitharunai" title`="Design">🎨</a> <a href="#maintenance-ashutosh1919" title="Maintenance">🚧</a> <a href="#ideas-ajitharunai" title="Ideas, Planning, & Feedback">🤔</a></td>
+        
       <td align="center"><a href="https://danielmarostica.github.io/"><img src="https://avatars3.githubusercontent.com/u/3595998?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel Marostica</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=danielmarostica" title="Documentation">📖</a> <a href="#design-danielmarostica" title="Design">🎨</a></td>
       <td align="center"><a href="http://ashutosh1919.github.io"><img src="https://avatars3.githubusercontent.com/u/20843596?s=460&u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ashutosh Hathidara</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=ashutosh1919" title="Code">💻</a> <a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=ashutosh1919" title="Documentation">📖</a> <a href="#design-ashutosh1919" title`="Design">🎨</a> <a href="#maintenance-ashutosh1919" title="Maintenance">🚧</a> <a href="#ideas-ashutosh1919" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center"><a href="https://danielmarostica.github.io/"><img src="https://avatars3.githubusercontent.com/u/3595998?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel Marostica</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=danielmarostica" title="Documentation">📖</a> <a href="#design-danielmarostica" title="Design">🎨</a></td>
