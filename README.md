@@ -25,7 +25,7 @@
 
 <p align="center"> 
     <a href="https://ashutosh1919.github.io" target="_blank">
-    <img src="images/masterPortfolioThemes.png"></img>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6mBxFELMnvTNK3SHnhFj453xQItjZFvze_lKcJM3__SFQQbgi75gX8TDEgNOv2_08pl4TxHpqIfvA9xIaPxX3fi0NA6yU6DE9qsiuRyMBEaRpDFLnfiq4IbE8XO-Yds0fvFAnJ6jXA_QcH0ALoj40woYVBxcwjxIjHuw-TxcTmqq6eu3a0m5OVw3t/s16000/theme.png"></img>
   </a>
 </p>
 
