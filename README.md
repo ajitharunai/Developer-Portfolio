@@ -177,7 +177,7 @@ Now, your website is successfully deployed and you can visit it at `<your-github
 If you are stuck somewhere and want to observe the deployment process in depth, then please watch below video.
 
 <p align="center"> 
-    <a href="http://www.youtube.com/watch?v=IwBS39TOmpA" target="_blank">
+    <a href="https://github.com/ajitharunai/Developer-Portfolio">
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6mBxFELMnvTNK3SHnhFj453xQItjZFvze_lKcJM3__SFQQbgi75gX8TDEgNOv2_08pl4TxHpqIfvA9xIaPxX3fi0NA6yU6DE9qsiuRyMBEaRpDFLnfiq4IbE8XO-Yds0fvFAnJ6jXA_QcH0ALoj40woYVBxcwjxIjHuw-TxcTmqq6eu3a0m5OVw3t/s16000/theme.png"></img>
   </a>
 </p>
@@ -228,5 +228,5 @@ If you can help us with these. Please don't hesitate to open an [pull request](h
 
 # References 👏🏻
 
-- Some Design and Implementation Ideas are taken from [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio).
-- The Logo of MasterPortfolio is inspired from [prettier-logo](https://github.com/prettier/prettier-logo) for [prettier](https://github.com/prettier/prettier) designed by @ianstormtaylor.
+- Some Design and Implementation Ideas are taken from [Aji Creations Project](https://github.com/ajitharunai/Student-Portfolio).
+- The Logo of MasterPortfolio is inspired from [prettier-logo](https://github.com/prettier/prettier-logo) for [prettier](https://github.com/prettier/prettier) designed by @arunaiajith
