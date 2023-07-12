@@ -476,6 +476,17 @@ const experience = {
       title: "Work",
       experiences: [
         {
+          title: "Founding Team | Research Engineer | Marketing Head",
+          company: "Complyance.io",
+          company_url: "https://www.complyance.io/",
+          logo_path: "buddi.png",
+          duration: "Jan 2023- Current",
+          location: "Chennai,Tamil Nadu",
+          description:
+            " Game changing and Explore More things in the E-invoicing word",
+          color: "#0879bf",
+        },
+        {
           title: "Junior Research Engineer",
           company: "Buddi AI",
           company_url: "https://www.buddi.ai/",
