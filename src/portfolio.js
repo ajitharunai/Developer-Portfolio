@@ -479,7 +479,7 @@ const experience = {
           title: "Founding Team | Research Engineer | Marketing Head",
           company: "Complyance.io",
           company_url: "https://www.complyance.io/",
-          logo_path: "buddi.png",
+          logo_path: "complyance.png",
           duration: "Jan 2023- Current",
           location: "Chennai,Tamil Nadu",
           description:
