@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Ajith Kumar Murugan",
   logo_name: "Aji Creations",
-  nickname: "python Ajith",
+  nickname: "AI Research Engineer",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
